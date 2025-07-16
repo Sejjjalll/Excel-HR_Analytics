@@ -197,10 +197,6 @@ Although the raw data contained many other fields, those unrelated to this analy
 ### Q5: Can I update the dashboard with new data?
 **Ans**: Yes, replace the data in the source table and refresh all pivot tables to update the dashboard.
 
----
-
-## Author
-This project was created by [Bakare Sukurat Aderonke], a data analyst with expertise in creating Insightful dashboards and performing data analysis using tools like Excel, SQL,Python and Power-BI. I am passionate about uncovering trends and delivering actionable insights accross various domains. For more information, feel free to connect with me on LinkedIn. [www.linkedin.com/in/aderonkebakare101].
 
 ---
 
