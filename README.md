@@ -15,8 +15,7 @@ This project showcases an interactive **HR Analytics Dashboard** created in Exce
 7. [Tools & Techniques Used](#tools--techniques-used)
 8. [How to Use the Dashboard](#how-to-use-the-dashboard)
 9. [Questions & Answers](#questions--answers)
-10. [Conclusions]
-11. [Author](#author)
+10. [Author](#author)
 
 ---
 
